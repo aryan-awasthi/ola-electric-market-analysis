@@ -1,4 +1,4 @@
-}
+
 # Ola Electric Market Analysis Dashboard
 
 ## 📊 Project Overview
