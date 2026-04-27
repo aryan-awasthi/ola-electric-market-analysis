@@ -20,9 +20,9 @@ This project analyzes Ola Electric's declining market share despite rapid growth
 - Google Sheet
 
 ## Data Source 
-- Vahan data
+- Vahan portal
 - Assumption
-  
+- Time Period(Apr 2025-Mar 2026)
 
 ## 📌 Conclusion
 Ola is losing market share due to internal issues while competitors are scaling efficiently
