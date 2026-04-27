@@ -19,5 +19,10 @@ This project analyzes Ola Electric's declining market share despite rapid growth
 - Tableau Public
 - Google Sheet
 
+## Data Source 
+- Vahan data
+- Assumption
+  
+
 ## 📌 Conclusion
 Ola is losing market share due to internal issues while competitors are scaling efficiently
